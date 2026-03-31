@@ -1,26 +1,69 @@
-- 👋 Hi, I’m Ankur Sharma 
-- 👀 I’m currently interested in Blockchain, Hyperledger
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Blockchain Community
-- 📫 How to reach me ankurnyd@gmail.com
-- Programming · C++/C · Python · NodeJS · Bash· Etherum ·Hyperledger ·Remix IDE · Truffle · Python (Basics)
-- Analytics · My SQL · Excel
-- Web/Media Express · HTML/CSS/Javascript · Photoshop · Premiere Pro · WordPress
-- Cloud Computing: Azure · AWS · GCP
-- Experience: Since 2014 I am into coding as a freelancer
-- I am currently completing my MSc. from Liverpool John mores University. (Expected to complete by Dec 2021).
-- PGDM In Blockchain from IIIT Bangalore about to complete by September 2021.
-- I have started coding in blockchain and ethereum & Hyperledger since May 2020 till date.
-- Cloud Computing-Will be completed by November 2021 from Caltech University (Azure & AWS, GCP).
+<h1 align="center">Hi 👋, I'm Ankur Sharma</h1>
+<h3 align="center">🚀 IT Program Manager | Agile Leader | Integration & Cloud Enthusiast</h3>
 
-I'll take your business idea and make each pixel reverberate with your story.
+---
 
-Hello World !!!
+### 👨‍💻 About Me
+- 🔭 Currently working as an **IT Program Manager**, leading large-scale transformation projects (Oracle C2M, Integrations, Cloud)
+- 🌍 Managing global stakeholders across **India, US, UK, UAE, South Africa & Hong Kong**
+- ⚡ 11+ years of experience in **Project Management, Delivery, and Customer Engagement**
+- 🧠 Strong expertise in **Agile, Scrum, Release Planning, and Risk Management**
+- 🔗 Passionate about **System Integrations, Cloud Platforms, and AI-driven solutions**
+- 📈 Focused on delivering **customer-centric, scalable, and high-impact solutions**
 
-An established Web Developer (Freelancer) for more than 7 years and now Upskilling in Cloud Computing with Blockchain technology.
-An expert in rapport building across-functional teams to promote team cohesiveness. 
-Also experienced in Customer Success and retention.
-I believe in providing the best quality service to customers and strive for complete satisfaction leading to organizational growth.
+---
+
+### 🛠️ What I Do
+- 📊 Drive **end-to-end project delivery** (RFP → Go-Live → Support)
+- 🤝 Manage **cross-functional teams** (Dev, QA, BA, Infra, Business)
+- 🚀 Lead **Agile ceremonies** (Sprint Planning, Standups, Retros)
+- 🔍 Ensure **quality delivery with SIT/UAT oversight and defect resolution**
+- 📉 Track **risks, dependencies, and project health (RAG dashboards)**
+- 💡 Continuously improve processes through **data-driven insights**
+
+---
+
+### 🧰 Tech & Tools
+- 📌 **Project & Delivery:** Jira, Confluence, Trello, Monday.com  
+- ☁️ **Cloud:** AWS, Azure, GCP  
+- 🔗 **Integrations:** API Integrations, ERP (Oracle C2M), Middleware concepts  
+- 📊 **Analytics:** Excel, Qlik Sense  
+- 🖥️ **Web & Tech:** HTML, CSS, JavaScript, WordPress  
+- ⚙️ **Others:** GitHub, CRM Tools, Process Automation  
+
+---
+
+### 🎓 Certifications & Learning
+- 🏅 Google Project Management Certified  
+- 🌀 Certified Scrum Master (CSM)  
+- 🤖 Google AI Essentials & AI Development (2026)  
+- ☁️ Cloud Computing (AWS | Azure | GCP)  
+- 🔗 Blockchain (IIIT Bangalore)  
+
+---
+
+### 📌 Key Highlights
+- 🚀 Delivered multiple **enterprise-level IT transformation projects**
+- 🌐 Experience across **integration-heavy ecosystems and global delivery**
+- 📦 Led **API integrations with Uber, Lyft, MTM, ModivCare**
+- 📊 Built **structured reporting, RAID logs, and governance frameworks**
+- 🎯 Strong focus on **customer success, engagement, and value delivery**
+
+---
+
+### 📫 Let's Connect
+- 📧 Email: ankurnyd@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/ankurnyd  
+- 🧑‍💻 GitHub: https://github.com/ankurnyd  
+
+---
+
+### 💡 Fun Fact
+_"I turn complex problems into structured execution — and ideas into real-world impact."_  
+
+---
+
+⭐️ From [ankurnyd](https://github.com/ankurnyd)
 
 
 TECHNICAL SKILLS :
