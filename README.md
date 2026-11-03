@@ -1,139 +1,54 @@
-<h1 align="center">Hi 👋, I'm Ankur Sharma</h1>
-<h3 align="center">🚀 IT Program Manager | Agile Leader | Integration & Cloud Enthusiast</h3>
+Hi, I'm Ankur Sharma 👋
 
----
+IT Project Manager · PMP® · System Integration · Energy & Utilities IT
 
-### 👨‍💻 About Me
-- 🔭 Currently working as an **IT Program Manager**, leading large-scale transformation projects (Oracle C2M, Integrations, Cloud)
-- 🌍 Managing global stakeholders across **India, US, UK, UAE, South Africa & Hong Kong**
-- ⚡ 11+ years of experience in **Project Management, Delivery, and Customer Engagement**
-- 🧠 Strong expertise in **Agile, Scrum, Release Planning, and Risk Management**
-- 🔗 Passionate about **System Integrations, Cloud Platforms, and AI-driven solutions**
-- 📈 Focused on delivering **customer-centric, scalable, and high-impact solutions**
+LinkedIn Email
 
----
+I lead IT system-integration and software-delivery projects from initiation to go-live. I have 10 years of professional experience, including 5+ years managing IT projects for clients in the US, Canada, UAE, South Africa, Japan and India.
 
-### 🛠️ What I Do
-- 📊 Drive **end-to-end project delivery** (RFP → Go-Live → Support)
-- 🤝 Manage **cross-functional teams** (Dev, QA, BA, Infra, Business)
-- 🚀 Lead **Agile ceremonies** (Sprint Planning, Standups, Retros)
-- 🔍 Ensure **quality delivery with SIT/UAT oversight and defect resolution**
-- 📉 Track **risks, dependencies, and project health (RAG dashboards)**
-- 💡 Continuously improve processes through **data-driven insights**
+Right now I manage concurrent Oracle Customer-to-Meter (C2M) enhancement and integration projects for a regulated U.S. electric utility. The work covers smart-grid gateway rollouts, net-metering billing and time-of-day enrollment.
 
----
+🧭 What I do
+Plan and control delivery: project plans, milestones, resource allocation, RAID logs, RAG health dashboards, KPI and status reporting
+Run integration projects: utility billing platforms, third-party APIs, SDK rollouts into client systems
+Govern quality and change: scope and change control, System Test / SIT / UAT quality gates, release planning, audit-ready decision logs
+Work in Agile, Waterfall or hybrid: Scrum ceremonies, backlog grooming, release trains, lessons-learned reviews
+Partner with stakeholders and vendors: from RFP response through contract, deployment and hand-over to support
+🚀 Selected delivery work
+Project	What I delivered
+Smart Grid Gateway rollouts (U.S. electric utility)	Sensus SGG integration with Oracle C2M across release bundles 2–4, through ST/SIT and into Production
+Net-metering billing	PowerClerk–Oracle C2M integration to automate aggregate and net-metering billing
+Time-of-Day enrollment & Load Totalization	C2M logic changes that cut redundant meter exchanges; automated measurement setup for large commercial and industrial customers
+State transit program (U.S.), 16 sites	Cloud-based paratransit scheduling, dispatch and billing rollout, with API integrations to MTM, ModivCare, Uber and Lyft
+Barcode & MRZ SDK implementations	Client integrations in Dubai, South Africa, Japan and India, including ERPNext-based warehouse dispatch and passport-data capture
+🛠️ Toolbox
 
-### 🧰 Tech & Tools
-- 📌 **Project & Delivery:** Jira, Confluence, Trello, Monday.com  
-- ☁️ **Cloud:** AWS, Azure, GCP  
-- 🔗 **Integrations:** API Integrations, ERP (Oracle C2M), Middleware concepts  
-- 📊 **Analytics:** Excel, Qlik Sense  
-- 🖥️ **Web & Tech:** HTML, CSS, JavaScript, WordPress  
-- ⚙️ **Others:** GitHub, CRM Tools, Process Automation  
+Project management: Microsoft Project · Jira · Confluence · Monday.com · Trello · Microsoft Teams · Mural · Excel
 
----
+Platforms & integration: Oracle C2M / CC&B · Sensus Smart Grid Gateway · PowerClerk · ERPNext · Microsoft Dynamics 365 CRM · Power Automate · REST/third-party APIs
 
-### 🎓 Certifications & Learning
-- 🏅 Google Project Management Certified  
-- 🌀 Certified Scrum Master (CSM)  
-- 🤖 Google AI Essentials & AI Development (2026)  
-- ☁️ Cloud Computing (AWS | Azure | GCP)  
-- 🔗 Blockchain (IIIT Bangalore)  
+Cloud & data: AWS, Azure and GCP fundamentals · Qlik Sense · MySQL
 
----
+Development background: Java · JavaScript · HTML/CSS · Solidity · WordPress
 
-### 📌 Key Highlights
-- 🚀 Delivered multiple **enterprise-level IT transformation projects**
-- 🌐 Experience across **integration-heavy ecosystems and global delivery**
-- 📦 Led **API integrations with Uber, Lyft, MTM, ModivCare**
-- 📊 Built **structured reporting, RAID logs, and governance frameworks**
-- 🎯 Strong focus on **customer success, engagement, and value delivery**
+🎓 Certifications & learning
+Project Management Professional (PMP)®, PMI (2026)
+Certified ScrumMaster® (CSM), Scrum Alliance (2022)
+PRINCE2® Foundation, PeopleCert (in progress)
+Google Project Management Professional Certificate (2021)
+Google AI Essentials (2026) · Claude Code in Action, Anthropic Academy (2026)
+Post Graduate Program in Cloud Computing, Caltech (online, 2020–21)
+Post Graduate Program in Blockchain Development, IIIT Bangalore (online, 2020–21)
+Bachelor of Computer Applications, ICFAI University, Sikkim
+📂 Repositories
 
----
+Coursework projects from my IIIT Bangalore blockchain program:
 
-### 📫 Let's Connect
-- 📧 Email: ankurnyd@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/ankurnyd  
-- 🧑‍💻 GitHub: https://github.com/ankurnyd  
+KYC_ethereum: distributed KYC system for banks (Ethereum, Solidity, Truffle)
+PROPERTY-REGISTRATION: property registration network on Hyperledger Fabric
+The-Drug-Counterfeiting-Problem: supply-chain serialization to fight counterfeit drugs
+Trello_quora: RESTful web APIs in Java
 
----
+Web projects: brotherhoodtravels.com · cabinsikkim.com · kalon.co.in
 
-### 💡 Fun Fact
-_"I turn complex problems into structured execution — and ideas into real-world impact."_  
-
----
-
-⭐️ From [ankurnyd](https://github.com/ankurnyd)
-
-
-TECHNICAL SKILLS :
-
-Languages:
-‾‾‾‾‾‾‾‾‾‾‾‾‾
-► Python,
-► JavaScript,
-► CSS, HTML,
-► C++/C ,
-► NodeJS,
-► Bash,
-► Ethereum,
-► Hyperledger Fabric,
-► Remix IDE,
-► Truffle,
-► Java - NetBeans etc.
-
-Database, CMS & Website Builders:
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-► WordPress,
-► MySQL
-► Divi (Website Builder).
-► Elementor (Website Builder).
-► Wix (Website Builder).
-► Shopify (Website Builder).
-► Graphic Editors: Adobe Photoshop
-
-CERTIFICATIONS
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-► Google Cloud Platform Architect
-► Microsoft Certified Azure Administrator: AZ:104
-► Microsoft Certified Azure Developer Associate: AZ:204
-► Microsoft Azure Architect Technologies: AZ:303
-► Microsoft Azure Architect Design: AZ:304
-► Microsoft Azure Architect Design: AZ:304
-► AWS Developer Associate
-► AWS Sysops Associate
-► AWS Database Migration
-
-AREAS OF EXPERTISE
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-► Cloud Provider
-► Selection Application
-► Migration Performance
-► Testing Cloud
-► Workloads Identity Access
-► Management Autoscaling Disaster
-► Recovery Web Services
-► API Cloud Migration
-► Deployment Database Management
-► Multi Cloud Deployment
-► Responsive Web Design
-► Frontend Architecture
-► Brand Strategy & Implementation
-► Project Management
-
-RECENT PROJECT'S
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-★ www.brotherhoodtravels.com
-★ www.cabinsikkim.com
-★ www.kalon.co.in
-
-
-► 7+ years of experience in designing web solutions for world-class digital applications.
-► 99% client satisfaction rate.
-► With a track record of pivotal contribution across 100+ dynamic websites.
-(Spanning e-commerce, travel, personal portfolios, etc.)
-
-<!---
-ankurnyd/ankurnyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Always happy to talk about integration-heavy delivery, utility IT and practical Agile.
